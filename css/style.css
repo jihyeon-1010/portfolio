@@ -940,6 +940,11 @@ footer i { font-size: 40px; }
     .project-slide-view.reverse .slide-box { margin: 0 auto; }
     .project-slide-view.reverse .slide-back { left: 50%; transform: translateX(-50%);}
 
+    .pdf-link {
+        font-size: 20px; 
+        vertical-align: middle;
+    }
+
 
     /* 여기 */
     .slide-container.phone {
@@ -1080,6 +1085,11 @@ footer i { font-size: 40px; }
     .title {
         margin-right: 10px;
     }   
+
+    .pdf-link {
+        font-size: 18px; 
+        vertical-align: middle;
+    }
 
     /*  */
     .prev-arrow {
